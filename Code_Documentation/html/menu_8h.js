@@ -1,0 +1,25 @@
+var menu_8h =
+[
+    [ "BASE_FUNCTION_STATE", "menu_8h.html#a0e1abf0a55d1404385fd8d067447deca", null ],
+    [ "KEYPRESS_ARROW_DOWN", "menu_8h.html#a47551d40daa93de5b1fbb4be87add3b9", null ],
+    [ "KEYPRESS_ARROW_LEFT", "menu_8h.html#a9ea6a399c3d85c213018e6e111180a17", null ],
+    [ "KEYPRESS_ARROW_RIGHT", "menu_8h.html#a299a368787b35ea1b192429d3f1fd204", null ],
+    [ "KEYPRESS_ARROW_UP", "menu_8h.html#ac4450437112bd4be043ade669a50b8dd", null ],
+    [ "KEYPRESS_END", "menu_8h.html#a4a50c0cb44d44ec6ebb6faad5820dd53", null ],
+    [ "MAIN_MENU", "menu_8h.html#a44dd1b46a3f55007e78fc1ac506153b9", null ],
+    [ "MENU_CHANNEL", "menu_8h.html#a8339058e254e909708d297197422bb43", null ],
+    [ "MENU_SAMPLE_SIZE", "menu_8h.html#aa05ae30366762250ca873f2b6ea55e91", null ],
+    [ "MENU_SAMPLE_SPEED", "menu_8h.html#a90a586ea30392a7bacc05db286e0f00f", null ],
+    [ "START_BLOCK_SAMPLING", "menu_8h.html#afb91f0a84ddd5f7ae34c80fd3fe70f95", null ],
+    [ "START_CONTINUOUS_SAMPLING", "menu_8h.html#aecd7c3a9fadbe054a5301d7338948610", null ],
+    [ "WAIT_KEYPRESS", "menu_8h.html#a04bb3cdf06d64cb22978c0e73f961d74", null ],
+    [ "menu_cls", "menu_8h.html#ae8198f491069aaf8da260d2ee6e6945f", null ],
+    [ "menu_print_channel_menu", "menu_8h.html#a45b5a1a8ed63662b6077944558adec5d", null ],
+    [ "menu_print_main_menu", "menu_8h.html#a12e7576ddbe2d37256a04bcaaf9546c6", null ],
+    [ "menu_print_maxim_banner", "menu_8h.html#a6c766f5bb56f18c066f9ead328e34bbf", null ],
+    [ "menu_print_maxim_banner_big", "menu_8h.html#a35402ee26a4a7793731d74fc59116148", null ],
+    [ "menu_print_prompt", "menu_8h.html#a179a7fd60aca4f5490a28300895e6fcb", null ],
+    [ "menu_print_sample_rate_menu", "menu_8h.html#a4f68d32bcee169946c087becf8b67bfa", null ],
+    [ "menu_print_sample_size_menu", "menu_8h.html#a4e3edd94e7663654831da0ae5b2a7e5a", null ],
+    [ "menu_retrieve_keypress", "menu_8h.html#ad6abce3557dfafc6011936a1b1ef87cb", null ]
+];
